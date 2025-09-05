@@ -17,7 +17,7 @@ The project mirrors the structure of Raschka’s methodology to deepen conceptua
 
 - `data/` — Raw text corpora and processed datasets for model training  
 - `src/` — Core implementation scripts and notebooks:
-  - `gpt2_custom.ipynb` — Building a Byte Pair Encoding (BPE) tokenizer  
+  - `gpt2_custom.ipynb`---->complete gpt2. 
 
 - `experiments/` — tokenizer.ipynb, understanding_attention_mechanism.ipynb,  LLM_ARCHITECTURE.ipynb.
 - `README.md` — This overview and usage guide  
